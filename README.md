@@ -1,0 +1,1 @@
+# analise_de_sentimentos_em_criticas_de_filmes
