@@ -69,15 +69,17 @@ O modelo NLTK + TF-IDF + Regressão Linear apresentou os melhores resultados, co
 
 1. Clone o repositório
 ```bash
- git clone https://github.com/paulo-santos-ds/previsao_total_corridas_taxi
+ https://github.com/paulo-santos-ds/analise_de_sentimentos_em_criticas_de_filmes
 ```
 
-2. Instale as dependências
+2. Extrair o arquivo (imdb_reviews.zip)
+
+3. Instale as dependências
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Execute o notebook principal
+4. Execute o notebook principal
 ```bash
-Modelo_Preditivo_Corrida_Taxi.ipynb
+analise_de_sentimentos_em_criticas_de_filmes.ipynb
 ```
